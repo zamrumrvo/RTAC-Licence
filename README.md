@@ -7,7 +7,7 @@ RTA チャートのライセンス (許諾事項) です
 その他詳しい使用条件などは[本ライセンス](https://github.com/zamrumrvo/RTAC-Licence/blob/main/rtac-licence.md)に書いてありますのでそちらをご覧ください  
   
 ### 使用方法  
-RTAC-Licence をチャート内のわかりやすいところに明記してください  
+`RTAC-Licence`をチャート内のわかりやすいところに明記してください  
 リンクを引用する場合は https://github.com/zamrumrvo/RTAC-Licence/blob/main/rtac-licence.md を使ってください  
   
 ### 著作権法  
